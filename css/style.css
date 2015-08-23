@@ -59,7 +59,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     width: 1200px;
     margin: 0px auto;
-/*    padding: 0px;*/
 }
 
 
@@ -80,7 +79,7 @@ header {
 footer {
     width: 100%;
     background: #121211;
-    color: #ffffff;
+    color: #fff;
     padding: 70px 0px 50px 0px;
 }
 
@@ -90,12 +89,13 @@ footer {
 /*******************************************/
 
 h1 {
-    font-size: 24pt;
+    font-size: 24px;
+    font-weight: 800;
     margin: 0px;
 }
 
 #header-logo {
-    color: #ffffff;
+    color: #fff;
     text-align: left;
     padding-top: 40px;
     padding-left: 120px;
@@ -103,8 +103,8 @@ h1 {
 }
 
 h2 {
-    font-size: 24pt;
-    color: #ffffff;
+    font-size: 24px;
+    color: #fff;
     font-weight: 600;
     padding-bottom: 90px;
     margin: 0px;
@@ -114,13 +114,13 @@ h2 {
     background: #f0efef;
     color: #033048;
     padding: 100px 500px 100px 120px;
-    font-size: 13pt;
+    font-size: 13px;
     font-weight: 300;
 }
 
 h3 {
     font-weight: 600;
-    font-size: 20pt;
+    font-size: 20px;
     margin: 0px;
 }
 
@@ -131,9 +131,9 @@ h3 {
 
 #testimonial {
     background: url("../images/testimonial_bg.jpg");
-    color: #ffffff;
+    color: #fff;
     text-align: center;
-    font-size: 18pt;
+    font-size: 18px;
     padding: 0px 400px;
 }
 
@@ -164,7 +164,7 @@ h3 {
 
 .yellow-button,
 .blue-button {
-    width: 262px;
+    width: 260px;
     font-weight: 800;
     border-radius: 5px;
     text-align: center;
@@ -173,13 +173,13 @@ h3 {
 }
 
 .yellow-button {
-    font-size: 14pt;
+    font-size: 14px;
     background: #f9e42e;
     color: #033048;
 }
 
 .blue-button {
-    font-size: 12pt;
+    font-size: 12px;
     background: #033048;
     color: #f1efee;
 }
@@ -191,7 +191,7 @@ h3 {
 }
 
 #social-icons {
-    widows: 100%;
+    width: 100%;
     padding-bottom: 90px;
 }
 
@@ -210,7 +210,7 @@ h3 {
 }
 
 h6 {
-    font-size: 9pt;
+    font-size: 9px;
     font-weight: 600;
     text-align: center;
     margin: 0px;
