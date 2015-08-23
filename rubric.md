@@ -10,7 +10,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 Student: Aaron Stannard
 
-Project URL: https://github.com/iamstannard/general-assembly/tree/master/assignments/ga-syd-fewd-19-assignment-2
+Project URL: https://github.com/iamstannard/ga-syd-fewd-19-assignment-2
 
 
 
