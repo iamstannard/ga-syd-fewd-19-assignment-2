@@ -57,6 +57,7 @@ Developer @GA in SYD
 
 body {
     font-family: 'Open Sans', sans-serif;
+    font-size: 26px;
     width: 1200px;
     margin: 0px auto;
 }
@@ -115,7 +116,6 @@ h2 {
     background: #f0efef;
     color: #033048;
     padding: 100px 470px 100px 120px;
-    font-size: 26px;
     font-weight: 300;
 }
 
@@ -203,14 +203,14 @@ h3 {
     display: inline-block;
     float: left;
     width: 43px;
-    margin-left: calc(50% - 50px);
+    margin-left: calc(50% - 53px);
 }
 
 #fb-icon {
     display: inline-block;
     float: right;
     width: 43px;
-    margin-right: calc(50% - 50px);
+    margin-right: calc(50% - 53px);
 }
 
 h6 {
